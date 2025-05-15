@@ -7,7 +7,7 @@ relativeURLs = true
 enableEmoji = true
 googleAnalytics = ""
 enableRobotsTXT = true
-copyright = "&copy; 2025, Sean"
+copyright = "&copy; 2025 Sean"
 
 # Main menu items
 [menu]
@@ -21,14 +21,14 @@ copyright = "&copy; 2025, Sean"
     identifier = "posts"
     name = "Posts"
     title = "Posts"
-    url = "/post/"
+    url = "."
     weight = -100
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    title = "Categories"
-    url = "/categories/"
-    weight = -90
+#  [[menu.main]]
+#    identifier = "categories"
+#    name = "Categories"
+#    title = "Categories"
+#    url = "/categories/"
+#    weight = -90
 
 # Configuration Features
 [params]
